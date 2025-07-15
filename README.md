@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://camo.githubusercontent.com/64caf9016869591bbcf79720ad78d0645d4ae11549961c8f47f9cb595838b2e3/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032312f3732302f3932302f6f726967696e616c2f706978656c2d6a6566662d6d6172696f2e6769663f31353732373039343333" alt="Mario Coding Pixel Art" width="600" />
+</p>
+
 # Hi there, I'm Aashish 👋
 
 I'm a passionate **Software Engineer 2** with a strong foundation in backend systems, Android development, and cloud-native architecture. I previously worked as an **SDET 1**, where I built automation frameworks and ensured the quality of distributed systems.
@@ -25,7 +29,7 @@ I'm a passionate **Software Engineer 2** with a strong foundation in backend sys
 ## 🛠 Tech Stack
 
 **Languages**  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 
 **Mobile**  
 ![Android](https://img.shields.io/badge/-Android%20(Java)-3DDC84?logo=android&logoColor=white)  
