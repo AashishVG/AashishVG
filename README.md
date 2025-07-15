@@ -1,37 +1,69 @@
 # Hi there, I'm Aashish 👋
 
-I'm a passionate **Software Engineer 2** with a strong foundation in both backend development and quality engineering. I previously worked as an **SDET 1**, where I developed robust test frameworks and automated end-to-end solutions to ensure product quality.
+I'm a passionate **Software Engineer 2** with a strong foundation in backend systems, Android development, and cloud-native architecture. I previously worked as an **SDET 1**, where I built automation frameworks and ensured the quality of distributed systems.
+
+---
 
 ## 👨‍💻 About Me
 
 - 🔭 Currently working as a **Software Engineer 2**
-- 🧪 Previously an **SDET 1**, focused on automation, reliability, and performance testing
-- 💡 Skilled in **Java**, **Scala**, **Spring Boot**, **Docker**, and **Kubernetes**
-- ☁️ Experienced with **AWS**, **CI/CD pipelines**, and **microservices architecture**
-- 🧰 Proficient with test tools like **Selenium**, **TestNG**, **RestAssured**, **Postman**, and **JMeter**
-- 📊 Passionate about writing clean, maintainable code and building scalable systems
-- 📚 Always learning: exploring **system design**, **DevOps practices**, and **cloud-native development**
+- 🧪 Formerly worked as an **SDET 1**
+- 📱 Developed **native Android apps** using **Java**
+- ⚙️ Built **microservices** to power mobile and web platforms
+- ☁️ Integrated **AWS services** like:
+  - **SQS** for messaging
+  - **S3** for object storage
+  - **DynamoDB** for serverless NoSQL data
+- 🗄️ Experienced with **Redis** and **Memcached** for caching and performance tuning
+- 🧠 Familiar with **RocksDB** for high-performance embedded storage
+- 🐳 Skilled in using **Docker** and **Kubernetes** to deploy scalable services
+- 🧪 Developed and maintained **automated test frameworks** for reliability
+- 🌱 Continuously learning: system design, distributed architecture, and clean code practices
 
-## 🔧 Tech Stack
+---
 
-**Languages**:  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DE3423?logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-**Backend**:  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-blue)  
-**Tools & Platforms**:  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
-**Testing**:  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![JMeter](https://img.shields.io/badge/-JMeter-D22128?logo=apachejmeter&logoColor=white)
+## 🛠 Tech Stack
+
+**Languages**  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+
+**Mobile**  
+![Android](https://img.shields.io/badge/-Android%20(Java)-3DDC84?logo=android&logoColor=white)  
+
+**Backend & APIs**  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![Microservices](https://img.shields.io/badge/-Microservices-blue)
+
+**Databases & Caching**  
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)  
+![RocksDB](https://img.shields.io/badge/-RocksDB-6E40C9?logoColor=white)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)  
+![Memcached](https://img.shields.io/badge/-Memcached-0AA1DD?logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
+![SQS](https://img.shields.io/badge/-SQS-FF9900?logo=amazonaws&logoColor=white)  
+![S3](https://img.shields.io/badge/-S3-569A31?logo=amazons3&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
+**Testing & CI**  
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white)  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
+---
 
 ## 📈 GitHub Stats
 
-![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide=issues)
+![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=AashishVG&show_icons=true&theme=github_dark&hide=issues)
+
+---
 
 ## 📫 Let's Connect
 
 - 📧 [Email Me](mailto:gupta.ashish459@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/aashish-gupta-dev/)
-- 📝 Portfolio (coming soon...)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aashish-gupta-dev/)
+- 🚀 Portfolio (coming soon...)
 
 ---
 
