@@ -60,6 +60,7 @@ I'm a passionate **Software Engineer 2** with a strong foundation in backend sys
 ![S3](https://img.shields.io/badge/-S3-569A31?logo=amazons3&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 
 **Testing & CI**  
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white)  
