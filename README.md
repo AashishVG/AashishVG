@@ -2,7 +2,9 @@
   <img src="https://camo.githubusercontent.com/64caf9016869591bbcf79720ad78d0645d4ae11549961c8f47f9cb595838b2e3/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032312f3732302f3932302f6f726967696e616c2f706978656c2d6a6566662d6d6172696f2e6769663f31353732373039343333" alt="Mario Coding Pixel Art" style="max-width: 100%; width: 900px; height: auto; display: block; margin: auto;"/>
 </p>
 
-# Hi there, I'm Aashish 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aashish+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
 I'm a passionate **Software Engineer 2** with a strong foundation in backend systems, Android development, and cloud-native architecture. I previously worked as an **SDET 1**, where I built automation frameworks and ensured the quality of distributed systems.
 
