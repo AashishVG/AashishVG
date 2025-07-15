@@ -39,6 +39,9 @@ I'm a passionate **Software Engineer 2** with a strong foundation in backend sys
 **Mobile**  
 ![Android](https://img.shields.io/badge/-Android%20(Java)-3DDC84?logo=android&logoColor=white)  
 
+**Frontend / Web**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
 **Backend & APIs**  
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  
