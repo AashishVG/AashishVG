@@ -82,7 +82,7 @@ I'm a passionate **Software Engineer 2** with a strong foundation in backend sys
 
 - 📧 [Email Me](mailto:gupta.ashish459@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aashish-gupta-dev/)
-- 🚀 Portfolio (coming soon...)
+- 🚀 [Portfolio](https://aashishvg.github.io/react_portfolio/)
 
 ---
 
